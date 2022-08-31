@@ -1,1 +1,61 @@
-/* Copy and paste your CSS from CodePen into here */
+body{
+    width: 100%;
+    background-image: url(https://www.physics.uu.se/digitalAssets/389/c_389684-l_1-k_1174px-hubble_extreme_deep_field_-full_resolution-.png)
+
+}
+
+#main{ 
+    max-width: 600px;
+    font-size: 16px;
+    margin: auto;
+    text-align: center; 
+    
+}
+
+#title{
+    font-family: 'Pacifico', cursive, Arial;
+    color:  whitesmoke;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    
+}
+#img-div{
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    }
+#img-caption{
+    font-family:'Lucida Sans', Arial;
+    font-size: 16px;
+    font-style: italic;
+    image-orientation: center;
+    margin-top: 5px;
+}
+    
+#image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+ 
+}
+   
+#tribute-info{
+    font-family: Lucida sans, Arial;
+    font-size: 18px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    
+
+}
+
+#tribute-link {
+    max-width:100px;
+    font-family: Lucida Sans, Arial;
+    font-size: 12px;
+    color: yellow;
+    }
+
